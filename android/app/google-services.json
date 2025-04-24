@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944620268143",
+    "project_id": "appretargeting-b6139",
+    "storage_bucket": "appretargeting-b6139.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944620268143:android:9a431ebb4ac81d9edbfb9a",
+        "android_client_info": {
+          "package_name": "com.example.appretargeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_hbptV-daj10rQ6hvHyLqmioaqUP9Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
