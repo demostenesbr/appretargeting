@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'appretargeting-b6139.firebasestorage.app',
     measurementId: 'G-KR967CLVTW',
   );
+
 }
